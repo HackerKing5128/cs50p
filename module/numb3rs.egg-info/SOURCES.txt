@@ -1,7 +1,0 @@
-README.txt
-numb3rs.py
-setup.py
-numb3rs.egg-info/PKG-INFO
-numb3rs.egg-info/SOURCES.txt
-numb3rs.egg-info/dependency_links.txt
-numb3rs.egg-info/top_level.txt
